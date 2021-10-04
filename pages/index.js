@@ -26,7 +26,7 @@ export default function Home() {
         <title>Google</title>
         <link
           rel="icon"
-          href="https://jamiemckaye.com/media/posts/4/44343.png"
+          href="https://brandlogos.net/wp-content/uploads/2015/09/new-google-favicon.svg"
         />
       </Head>
 
@@ -43,7 +43,7 @@ export default function Home() {
 
           <Avatar
             url={
-              "https://andreibuliga.com/assets/images/image01.jpg?v=20e350f5"
+              "https://cdn.icon-icons.com/icons2/1378/PNG/512/avatardefault_92824.png"
             }
           />
         </div>

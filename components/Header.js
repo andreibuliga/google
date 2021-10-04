@@ -50,10 +50,11 @@ function Header() {
         </form>
         <Avatar
           className="ml-auto"
-          url={"https://andreibuliga.com/assets/images/image01.jpg?v=20e350f5"}
+          url={
+            "https://cdn.icon-icons.com/icons2/1378/PNG/512/avatardefault_92824.png"
+          }
         />
       </div>
-
       <HeaderOptions />
     </header>
   );

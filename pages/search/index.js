@@ -6,6 +6,8 @@ import { API_KEY, CONTEXT_KEY } from "../../keys";
 import SearchResults from "../../components/SearchResults";
 
 export default function Search({ results }) {
+  console.log(results);
+
   const router = useRouter();
 
   return (
@@ -14,7 +16,7 @@ export default function Search({ results }) {
         <title>{router.query.term} - Google Search</title>
         <link
           rel="icon"
-          href="https://jamiemckaye.com/media/posts/4/44343.png"
+          href="https://brandlogos.net/wp-content/uploads/2015/09/new-google-favicon.svg"
         />
       </Head>
 

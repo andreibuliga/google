@@ -11,7 +11,7 @@ function Footer() {
         <div className="flex justify-center md:justify-self-start space-x-8 whitespace-nowrap">
           <p>Advertising</p>
           <p>Business</p>
-          <p>How Search works</p>
+          <p>How Search Works</p>
         </div>
         <div className="flex justify-center md:ml-auto space-x-8">
           <p>Privacy</p>

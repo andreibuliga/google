@@ -47,8 +47,7 @@ export default {
       kind: "customsearch#result",
       title: "Testing for COVID-19 | CDC",
       htmlTitle: "<b>Testing</b> for COVID-19 | CDC",
-      link:
-        "https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/testing.html",
+      link: "https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/testing.html",
       displayLink: "www.cdc.gov",
       snippet:
         "Two types of viral tests can be used: nucleic acid amplification tests (NAATs) and \nantigen tests. An antibody test (also known as a serology test) might tell you if you\n ...",
@@ -62,8 +61,7 @@ export default {
       pagemap: {
         cse_thumbnail: [
           {
-            src:
-              "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQj9RwkNVzCcqP_Pg7lWDX14SjOb41x4z39SEzQdLwopksyXO6Fh0_sORM",
+            src: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQj9RwkNVzCcqP_Pg7lWDX14SjOb41x4z39SEzQdLwopksyXO6Fh0_sORM",
             width: "310",
             height: "163",
           },
@@ -135,8 +133,7 @@ export default {
         ],
         cse_image: [
           {
-            src:
-              "https://www.cdc.gov/coronavirus/2019-ncov/images/sm-your-health.jpg",
+            src: "https://www.cdc.gov/coronavirus/2019-ncov/images/sm-your-health.jpg",
           },
         ],
       },
@@ -157,8 +154,7 @@ export default {
       pagemap: {
         cse_thumbnail: [
           {
-            src:
-              "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSh4njMGTORPBNEWO6QDSH_YNZiJzbhbGAQd6aMyT7VZzDxNHhWguv-ZMg",
+            src: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSh4njMGTORPBNEWO6QDSH_YNZiJzbhbGAQd6aMyT7VZzDxNHhWguv-ZMg",
             width: "299",
             height: "169",
           },
@@ -193,8 +189,7 @@ export default {
       pagemap: {
         cse_thumbnail: [
           {
-            src:
-              "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQj9RwkNVzCcqP_Pg7lWDX14SjOb41x4z39SEzQdLwopksyXO6Fh0_sORM",
+            src: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQj9RwkNVzCcqP_Pg7lWDX14SjOb41x4z39SEzQdLwopksyXO6Fh0_sORM",
             width: "310",
             height: "163",
           },
@@ -266,8 +261,7 @@ export default {
         ],
         cse_image: [
           {
-            src:
-              "https://www.cdc.gov/coronavirus/2019-ncov/images/sm-your-health.jpg",
+            src: "https://www.cdc.gov/coronavirus/2019-ncov/images/sm-your-health.jpg",
           },
         ],
       },
@@ -303,8 +297,7 @@ export default {
       pagemap: {
         cse_thumbnail: [
           {
-            src:
-              "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyHJOtz2c1X4iPw6Rf7j4yXXzxItQqZXJqy12WXZggSIZVpLkaxvNao9s",
+            src: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyHJOtz2c1X4iPw6Rf7j4yXXzxItQqZXJqy12WXZggSIZVpLkaxvNao9s",
             width: "310",
             height: "163",
           },
@@ -359,8 +352,7 @@ export default {
         ],
         cse_image: [
           {
-            src:
-              "https://www.usertesting.com/sites/default/files/2020-10/Homepage_OG_1200x630.png",
+            src: "https://www.usertesting.com/sites/default/files/2020-10/Homepage_OG_1200x630.png",
           },
         ],
       },
@@ -396,8 +388,7 @@ export default {
       kind: "customsearch#result",
       title: "Community-Based Testing Sites for COVID-19 | HHS.gov",
       htmlTitle: "Community-Based <b>Testing</b> Sites for COVID-19 | HHS.gov",
-      link:
-        "https://www.hhs.gov/coronavirus/community-based-testing-sites/index.html",
+      link: "https://www.hhs.gov/coronavirus/community-based-testing-sites/index.html",
       displayLink: "www.hhs.gov",
       snippet:
         "How to Get a COVID-19 Test. COVID-19 tests are available at no cost nationwide \nat health centers and select pharmacies. The Families First Coronavirus ...",
@@ -411,8 +402,7 @@ export default {
       pagemap: {
         cse_thumbnail: [
           {
-            src:
-              "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTer5tOlT9XjjGi7S7lX_cipoLu_e2gvXXl1OJeeO0Vf9sAoYR__eSQDFXt",
+            src: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTer5tOlT9XjjGi7S7lX_cipoLu_e2gvXXl1OJeeO0Vf9sAoYR__eSQDFXt",
             width: "152",
             height: "152",
           },
@@ -553,8 +543,7 @@ export default {
       pagemap: {
         cse_thumbnail: [
           {
-            src:
-              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNQpZSdvuVY3q_WM2HA-it9hUEWN8Xdq4XiSmGOswU1NH5rJrYLk303JVW",
+            src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNQpZSdvuVY3q_WM2HA-it9hUEWN8Xdq4XiSmGOswU1NH5rJrYLk303JVW",
             width: "339",
             height: "149",
           },
@@ -576,8 +565,7 @@ export default {
         ],
         cse_image: [
           {
-            src:
-              "https://mn.gov/covid19/assets/facebook-mask-up-cover-image_tcm1148-432310.png",
+            src: "https://mn.gov/covid19/assets/facebook-mask-up-cover-image_tcm1148-432310.png",
           },
         ],
       },
